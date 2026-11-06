@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.py[cod]
+data/
+.env
+*.db
+incident_logging/database/*.db
+incident_logging/database/snapshots/
